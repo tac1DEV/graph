@@ -1,3 +1,33 @@
+body{
+    background-color: black;
+}
+
 #MyChart{
     height: 50vh;
+}
+
+.mat-mdc-progress-bar.mat-primary{
+    --mdc-linear-progress-active-indicator-color:#02d1ff;
+    --mdc-linear-progress-track-height: 1em !important;
+    --mdc-linear-progress-active-indicator-height: 1em !important;
+    border-radius: 1em;
+}
+
+.percentage{
+    color: #02d1ff;
+}
+
+.progressBar{
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 10px;
+    div{
+        color:#BFC9DE;
+        display:flex;
+        align-items: baseline;
+        span,h3{
+            font-size: 1em;
+        }
+    }
 }

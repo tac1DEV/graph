@@ -1,37 +1,49 @@
 {
-  "hash": "33493e1c",
-  "configHash": "c367ce7f",
-  "lockfileHash": "32ee966b",
-  "browserHash": "90e72afd",
+  "hash": "98d4de6e",
+  "configHash": "2d655725",
+  "lockfileHash": "07c9defd",
+  "browserHash": "f4a5e862",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "ca00e3df",
+      "fileHash": "87ca2a1b",
+      "needsInterop": false
+    },
+    "@angular/material/progress-bar": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/progress-bar.mjs",
+      "file": "@angular_material_progress-bar.js",
+      "fileHash": "9e85fda0",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "4cfb1e5d",
+      "fileHash": "4bd13249",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "527e4aca",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "51d83e2d",
+      "fileHash": "48578b85",
       "needsInterop": false
     },
     "chart.js": {
       "src": "../../../../../../node_modules/chart.js/dist/chart.js",
       "file": "chart__js.js",
-      "fileHash": "804cd963",
+      "fileHash": "6d7417f4",
       "needsInterop": false
     },
     "ng2-charts": {
       "src": "../../../../../../node_modules/ng2-charts/fesm2022/ng2-charts.mjs",
       "file": "ng2-charts.js",
-      "fileHash": "7aa959d4",
+      "fileHash": "b59b303c",
       "needsInterop": false
     }
   },
@@ -39,11 +51,17 @@
     "chunk-IUDTSDBB": {
       "file": "chunk-IUDTSDBB.js"
     },
-    "chunk-D4JXLQMX": {
-      "file": "chunk-D4JXLQMX.js"
+    "chunk-777O245K": {
+      "file": "chunk-777O245K.js"
     },
-    "chunk-72AB3UUE": {
-      "file": "chunk-72AB3UUE.js"
+    "browser-ZSVACB2M": {
+      "file": "browser-ZSVACB2M.js"
+    },
+    "chunk-24IVWMS4": {
+      "file": "chunk-24IVWMS4.js"
+    },
+    "chunk-52NPH474": {
+      "file": "chunk-52NPH474.js"
     },
     "chunk-WDMUDEB6": {
       "file": "chunk-WDMUDEB6.js"
